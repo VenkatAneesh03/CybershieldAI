@@ -1,0 +1,9 @@
+{
+    "total_assets": 30,
+    "critical_assets": 19,
+    "internet_exposed_assets": 18,
+    "high_cvss_assets": 28,
+    "active_threat_assets": 30,
+    "edr_at_risk_assets": 7,
+    "average_control_effectiveness": 0.63
+}

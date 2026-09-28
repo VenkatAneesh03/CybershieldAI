@@ -1,0 +1,31 @@
+asset_id,asset_name,asset_type,business_criticality,internet_exposed,vulnerability_count,max_cvss,active_threats,edr_status,iam_risk,control_effectiveness,risk_score,risk_level
+A012,VPN Gateway,Network Device,5,True,3,9.0,3,At Risk,High,0.48,84.8,Critical
+A029,Remote Access Server,Server,4,True,6,9.2,3,At Risk,High,0.45,81.65,Critical
+A003,Payment Server,Server,5,True,5,9.8,3,Protected,High,0.6,76.6,Critical
+A002,Public Web Server,Server,5,True,7,9.1,4,Protected,Medium,0.55,74.95,High
+A001,Customer Database,Database,5,True,4,9.8,2,Protected,High,0.65,72.85,High
+A025,Identity Management Server,Server,5,True,2,9.4,2,Protected,High,0.64,72.2,High
+A022,Customer Support App,Web Application,4,True,4,8.9,3,Protected,High,0.59,70.95,High
+A015,CRM Application,Web Application,4,True,5,8.7,3,Protected,High,0.57,70.85,High
+A020,Dev/Test Server,Server,2,True,8,9.3,3,At Risk,Medium,0.42,70.3,High
+A023,IoT Monitoring System,IoT Device,3,True,6,8.0,2,At Risk,Medium,0.47,67.95,High
+A006,Email Server,Server,4,True,5,8.8,3,Protected,Medium,0.58,66.9,High
+A018,Cloud Storage,Cloud Service,4,True,3,8.5,2,Protected,High,0.63,66.55,High
+A014,Office Router,Network Device,3,True,3,7.4,2,At Risk,Medium,0.52,66.0,High
+A026,Security Monitoring Server,Server,5,False,2,8.6,3,Protected,High,0.73,62.25,High
+A007,Finance Workstation,Endpoint,4,False,4,7.8,1,At Risk,High,0.5,62.1,High
+A004,Employee Portal,Web Application,4,True,6,8.6,2,Protected,Medium,0.7,61.7,High
+A028,Data Warehouse,Database,5,False,4,9.0,2,Protected,High,0.71,60.35,High
+A013,Domain Controller,Server,5,False,2,8.1,2,Protected,High,0.67,59.15,High
+A021,Mobile Device Gateway,Network Device,3,True,3,7.6,2,Protected,Medium,0.61,57.05,High
+A017,Sales Laptop 02,Endpoint,3,False,4,7.9,2,At Risk,Medium,0.55,56.55,High
+A008,Developer Laptop 01,Endpoint,3,True,3,7.5,2,Protected,Medium,0.68,55.8,High
+A010,Internal API Server,Server,4,False,4,8.9,2,Protected,Medium,0.62,53.5,High
+A019,Analytics Server,Server,4,False,5,8.4,2,Protected,Medium,0.66,51.9,High
+A005,HR Database,Database,4,False,3,8.2,1,Protected,High,0.72,51.6,High
+A027,Marketing Website,Web Application,2,True,5,7.8,2,Protected,Low,0.69,48.75,Medium
+A009,Developer Laptop 02,Endpoint,3,True,2,6.8,1,Protected,Low,0.75,46.85,Medium
+A011,Backup Server,Server,5,False,2,7.2,1,Protected,Low,0.82,44.6,Medium
+A030,Internal File Server,Server,3,False,3,7.7,1,Protected,Medium,0.76,42.0,Medium
+A024,Document Management,Web Application,3,False,3,7.1,1,Protected,Low,0.8,36.7,Medium
+A016,Sales Laptop 01,Endpoint,3,False,2,6.5,1,Protected,Low,0.78,35.8,Medium
